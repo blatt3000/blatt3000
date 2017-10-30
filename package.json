@@ -1,0 +1,34 @@
+{
+  "name": "blatt3000",
+  "version": "1.0.0",
+  "description": "Home of BLATT 3000",
+  "main": "index.html",
+  "scripts": {
+    "build": "static-generator build",
+    "clear": "static-generator clear",
+    "new": "static-generator new",
+    "serve": "serve",
+    "start": "npm run serve",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "watch 'npm run build' _src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blatt3000/blatt3000.github.io.git"
+  },
+  "keywords": [
+    "static",
+    "page"
+  ],
+  "author": "adzialocha",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/blatt3000/blatt3000.github.io/issues"
+  },
+  "homepage": "https://github.com/blatt3000/blatt3000.github.io#readme",
+  "devDependencies": {
+    "serve": "^6.4.0",
+    "static-generator": "^0.2.0",
+    "watch": "^1.0.2"
+  }
+}

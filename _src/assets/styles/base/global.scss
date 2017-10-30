@@ -1,0 +1,24 @@
+* {
+  &,
+  &::before,
+  &::after {
+    -webkit-font-smoothing: antialiased; // sass-lint:disable-line no-vendor-prefixes
+    box-sizing: border-box;
+
+    text-rendering: optimizeLegibility;
+  }
+}
+
+::selection {
+  background-color: $black;
+  color: $white;
+
+  text-shadow: none;
+}
+
+html,
+body {
+  font-family: $font-family-regular;
+  font-size: $font-size-regular;
+  font-weight: $font-weight-regular;
+}
