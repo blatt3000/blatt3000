@@ -1,8 +1,10 @@
 main {
   display: flex;
 
+  max-width: 800px;
   min-height: 100%;
 
+  margin: 0 auto;
   padding: $page-margin;
 
   align-items: center;
