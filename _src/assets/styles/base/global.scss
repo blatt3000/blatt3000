@@ -1,24 +1,32 @@
 * {
+  -webkit-tap-highlight-color: transparent; // sass-lint:disable-line no-vendor-prefixes
+
   &,
   &::before,
   &::after {
-    -webkit-font-smoothing: antialiased; // sass-lint:disable-line no-vendor-prefixes
     box-sizing: border-box;
+
+    -webkit-font-smoothing: antialiased; // sass-lint:disable-line no-vendor-prefixes
 
     text-rendering: optimizeLegibility;
   }
 }
 
 ::selection {
-  background-color: $black;
   color: $white;
+
+  background-color: $black;
 
   text-shadow: none;
 }
 
 html,
 body {
-  font-family: $font-family-regular;
-  font-size: $font-size-regular;
-  font-weight: $font-weight-regular;
+  height: 100%;
+
+  font-weight: $font-weight-base;
+  font-size: $font-size-base;
+  font-family: $font-family-base;
+
+  line-height: $line-height-base;
 }

@@ -1,8 +1,10 @@
-{% for category, sub in navigation %}
-  <ul class="navigation">
-  <li><strong>{{ category }}</strong></li>
-  {% for item in sub %}
-    <li{% if item.slug === slug %} class="active"{% endif %}><a href="/{{ item.slug }}">{{ item.title }}</a></li>
+<ul class="navigation" id="navigation">
+  {% for item in navigation %}
+    <li class="navigation__item{% if item.slug === slug %} navigation__item--active{% endif %}">
+      <a class="navigation__item-link" href="/{{ item.slug }}">
+        {{ item.title }}
+      </a>
+    </li>
   {% endfor %}
-  </ul>
-{% endfor %}
+</ul>
+

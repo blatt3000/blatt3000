@@ -1,5 +1,15 @@
 @import 'variables';
+@import 'functions';
 
 @import 'base/reset';
+
 @import 'base/global';
-@import 'base/typography';
+@import 'base/headings';
+@import 'base/links';
+@import 'base/paragraphs';
+
+@import 'layout/main';
+
+@import 'components/hamburger';
+@import 'components/navigation';
+@import 'components/title';

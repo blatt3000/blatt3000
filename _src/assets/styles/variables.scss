@@ -1,13 +1,37 @@
 // colors
 
 $black: #000;
+$gray: #666;
 $white: #fff;
 
 // fonts
 
-$font-family-regular: 'Arial', sans-serif;
+$font-family-base: 'Arial', sans-serif;
 
-$font-weight-regular: 400;
+$font-weight-base: 400;
 $font-weight-heavy: 700;
 
-$font-size-regular: 16px;
+$font-size-xxl: 4.5rem;
+$font-size-xl: 2rem;
+
+$font-size-base: 22px;
+
+// line heights
+
+$line-height-base: 1.3;
+
+// z-index
+
+$z-layers: (
+  navigation: 3000,
+  hamburger: 6000
+);
+
+// animations
+
+$transition-duration: .5s;
+$transition-timing-function: ease-in-out;
+
+// layout
+
+$page-margin: 20px;

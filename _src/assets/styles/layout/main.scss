@@ -1,0 +1,11 @@
+main {
+  display: flex;
+
+  min-height: 100%;
+
+  padding: $page-margin;
+
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

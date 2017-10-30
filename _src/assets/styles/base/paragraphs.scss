@@ -1,0 +1,11 @@
+p {
+  text-align: justify;
+
+  + p {
+    margin-top: $page-margin;
+  }
+}
+
+strong {
+  font-weight: $font-weight-heavy;
+}

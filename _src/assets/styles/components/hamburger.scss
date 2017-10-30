@@ -1,0 +1,57 @@
+$_hamburger-active-color: $black;
+$_hamburger-inactive-color: $gray;
+$_hamburger-line-size: 7px;
+$_hamburger-margin: $page-margin;
+$_hamburger-size: 40px;
+
+.hamburger {
+  position: fixed;
+
+  top: 0;
+  right: 0;
+
+  z-index: z(hamburger);
+
+  display: flex;
+
+  width: $_hamburger-size;
+  height: $_hamburger-size;
+
+  margin: $_hamburger-margin;
+
+  cursor: pointer;
+
+  justify-content: space-between;
+  flex-direction: column;
+
+  &:hover {
+    .hamburger__line {
+      background-color: $_hamburger-active-color;
+    }
+  }
+}
+
+.hamburger--active {
+  .hamburger__line {
+    display: none;
+
+    &:first-child {
+      display: initial;
+
+      height: 100%;
+
+      border-radius: 50%;
+
+      background-color: $white;
+    }
+  }
+}
+
+.hamburger__line {
+  width: 100%;
+  height: $_hamburger-line-size;
+
+  background-color: $_hamburger-inactive-color;
+
+  transition: background $transition-duration $transition-timing-function;
+}

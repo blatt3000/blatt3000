@@ -1,0 +1,15 @@
+a {
+  border-bottom: 2px solid $gray;
+
+  color: $gray;
+
+  text-decoration: none;
+
+  transition: color $transition-duration $transition-timing-function;
+
+  &:hover {
+    border-bottom-color: $black;
+
+    color: $black;
+  }
+}

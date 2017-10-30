@@ -1,0 +1,22 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding-bottom: $page-margin * 2;
+
+  font-weight: $font-weight-heavy;
+  font-size: 1rem;
+
+  text-align: left;
+  text-transform: uppercase;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding-top: $page-margin * 2;
+}

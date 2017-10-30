@@ -16,16 +16,38 @@
     "styles": "/assets/styles/app.css",
     "scripts": "/assets/scripts/app.js"
   },
-  "navigation": {
-    "Static page": [
-      {
-        "title": "About",
-        "slug": "about"
-      },
-      {
-        "title": "Contact",
-        "slug": "contact"
-      }
-    ]
-  }
+  "navigation": [
+    {
+      "title": "About",
+      "slug": "about"
+    },
+    {
+      "title": "Contact",
+      "slug": "contact"
+    },
+    {
+      "title": "About",
+      "slug": "about"
+    },
+    {
+      "title": "Contact",
+      "slug": "contact"
+    },
+    {
+      "title": "About",
+      "slug": "about"
+    },
+    {
+      "title": "Contact",
+      "slug": "contact"
+    },
+    {
+      "title": "About",
+      "slug": "about"
+    },
+    {
+      "title": "Contact",
+      "slug": "contact"
+    }
+  ]
 }

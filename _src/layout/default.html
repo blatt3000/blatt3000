@@ -19,17 +19,21 @@
   <script type="text/javascript" src="{{ meta.scripts }}?v={{ meta.version }}"></script>
 </head>
 <body>
-  <header>
-    <h1><a href="/">{{ meta.title }}</a></h1>
+  <nav>
+    <div class="hamburger" id="hamburger">
+      <div class="hamburger__line"></div>
+      <div class="hamburger__line"></div>
+      <div class="hamburger__line"></div>
+    </div>
     {% include "navigation.html" %}
-    <hr>
-  </header>
+  </nav>
   <main>
-    {% if heading %}<h2>{{ heading }}</h2>{% endif %}
-    {{ content | safe }}
+    {% if title %}
+      <h1>{{ title }}</h1>
+      {{ content | safe }}
+    {% else %}
+      <div class="title">{{ meta.title }}</div>
+    {% endif %}
   </main>
-  <footer>
-    <p>&copy; {{ meta.year }}</p>
-  </footer>
 </body>
 </html>
