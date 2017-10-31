@@ -22,28 +22,32 @@
       "slug": "about"
     },
     {
-      "title": "Contact",
-      "slug": "contact"
+      "title": "Archive",
+      "slug": "archive"
     },
     {
-      "title": "About",
-      "slug": "about"
+      "title": "BLATT 3000",
+      "slug": "blatt3000"
     },
     {
-      "title": "Contact",
-      "slug": "contact"
+      "title": "HOFFNUNG 3000",
+      "slug": "hoffnung3000"
     },
     {
-      "title": "About",
-      "slug": "about"
+      "title": "VERANTWORTUNG 3000",
+      "slug": "verantwortung3000"
     },
     {
-      "title": "Contact",
-      "slug": "contact"
+      "title": "The politics of self-curation",
+      "slug": "politics-of-self-curation"
     },
     {
-      "title": "About",
-      "slug": "about"
+      "title": "Shop",
+      "slug": "shop"
+    },
+    {
+      "title": "Newsletter",
+      "slug": "newsletter"
     },
     {
       "title": "Contact",

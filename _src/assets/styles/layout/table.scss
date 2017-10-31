@@ -1,0 +1,37 @@
+table {
+  border-collapse: collapse;
+
+  width: 100%;
+}
+
+th,
+td {
+  padding: $page-margin / 2;
+
+  border-bottom: 2px solid $black;
+}
+
+
+@include media-breakpoint(xs) {
+  th {
+    display: none;
+  }
+
+  td {
+    display: block;
+
+    border-bottom: 0;
+
+    &:first-child {
+      font-weight: $font-weight-heavy;
+    }
+
+    &:last-child {
+      border-bottom: 2px solid $black;
+    }
+  }
+}
+
+th {
+  text-align: left;
+}

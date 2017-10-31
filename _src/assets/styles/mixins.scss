@@ -1,0 +1,3 @@
+@mixin media-breakpoint($class) {
+  @media (max-width: map-get($media-breakpoint, $class)) { @content; }
+}

@@ -1,3 +1,11 @@
-Lorem ipsum dolor sit amet, pri velit fuisset mediocrem no, ut summo virtute eligendi his. Ex quas doming atomorum pro, at aliquam albucius vis. Doming disputationi ne vis. Mei aperiri accumsan ad.
+BLATT 3000
 
-Tota commune patrioque ex sed, in soleat fabellas persecuti eum. Democritum omittantur ex pro. Ad elit aliquip [rationibus](https://www.test.de) nec. Eos fierent antiopam definitiones ad, patrioque interpretaris eum ut. Mel timeam efficiendi ei, an rebum volutpat mei.
+Dzialocha, Kobel, Weber GbR
+Koppenplatz 1, 10115 Berlin, Germany
+
+Gesellschafter: [Andreas Dzialocha](https://andreasdzialocha.com), [Malte Kobel](http://www.techne.ac.uk/for-students/techne-students/techne-students-2017-18/kobel), [Laura Weber](http://lauraweber.net)
+
+ISSN 2199-9716
+
+Telefon: +49 (0) 30 / 37 4489 47
+E-Mail: [kontakt@blatt3000.de](mailto:kontakt@blatt3000.de)

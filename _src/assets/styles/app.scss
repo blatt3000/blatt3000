@@ -1,5 +1,6 @@
 @import 'variables';
 @import 'functions';
+@import 'mixins';
 
 @import 'base/reset';
 
@@ -9,6 +10,7 @@
 @import 'base/paragraphs';
 
 @import 'layout/main';
+@import 'layout/table';
 
 @import 'components/hamburger';
 @import 'components/navigation';
