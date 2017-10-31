@@ -57,6 +57,7 @@ $_navigation-item-size: 250px;
   font-weight: $font-weight-heavy;
   font-size: $font-size-xl;
 
+  text-align: center;
   text-transform: uppercase;
 
   justify-content: center;
@@ -68,5 +69,11 @@ $_navigation-item-size: 250px;
     border-bottom: 0;
 
     color: $white;
+  }
+}
+
+@include media-breakpoint(xs) {
+  .navigation__item-link {
+    font-size: $font-size-lg;
   }
 }
