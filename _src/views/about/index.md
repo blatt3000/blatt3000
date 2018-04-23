@@ -1,11 +1,5 @@
-Lorem ipsum dolor sit amet, pri velit fuisset mediocrem no, ut summo virtute eligendi his. Ex quas doming atomorum pro, at aliquam albucius vis. Doming disputationi ne vis. Mei aperiri accumsan ad.
+BLATT 3000 is a [printed](https://soundcloud.com/thelakeradio/a-portrait-of-blatt-3000) magazine for exchange and critical discussion from Berlin. It started in 2014 as a dialogical magazine for questions and problems around contemporary music but has since housed articles, impulses, discussions on art (theory), media (theory), gender, politics, personal stories, philosophy and much more. The core idea of BLATT 3000 is to engender critical and open discourses. This, we try to achieve by publishing impulses (playful, experimental, temporary) [rather](https://www.youtube.com/watch?v=fqzdnxhSObQ) than formatted, academic, long and safe articles. These impulses generate discourses and can be answered with a counter impulse in the next issue.
 
-Tota commune patrioque ex sed, in soleat fabellas persecuti eum. Democritum omittantur ex pro. Ad elit aliquip rationibus nec. Eos fierent antiopam definitiones ad, patrioque interpretaris eum ut. Mel timeam efficiendi ei, an rebum volutpat mei.
+![BLATT 3000](/assets/images/blatt3000-issue2.png)
 
-## Subtitle
-
-Ex altera facilis eos, ius everti malorum eu, vidit definitiones nam ut. Sed sanctus fierent expetendis ex. His alia postea aliquid id, sea eruditi sanctus antiopam ne. In scripta pertinacia concludaturque sea, his dicunt consequat eu, altera impedit at usu. Eam et omnesque tractatos, incorrupte honestatis in est.
-
-Ex malis saepe consequat eam, ad nec laoreet delicatissimi, mei ancillae scriptorem eu. Id vix justo molestie instructior. Eam option constituam ut. Nec ne dicta inimicus suavitate, ei ius tollit gubergren conceptam, veritus cotidieque mel in.
-
-Per ceteros vivendum imperdiet et, in eam eros dicat definiebas, per id vitae fuisset omnesque. Vel no latine equidem dolores, mentitum perfecto ei mei. Nullam accusamus referrentur ad quo. Copiosae gloriatur mei cu.
+BLATT 3000 is a simple booklet printed in Berlin which is published 2-3 times a year. BLATT 3000 can be [purchased](/order) for 15 Euro per year and will be distributed via post.

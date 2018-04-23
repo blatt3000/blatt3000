@@ -1,8 +1,24 @@
-HOFFNUNG 3000 is a festival for music, art and theory. It is an experiment in social, artistic and theoretical collaboration.
+HOFFNUNG 3000 was a festival for music, art and theory in Berlin initiated by BLATT 3000 together with [Sam Andreae](http://www.samandreae.com/), who has run the [KLANGKELLER](http://klangkeller.net/) series in Berlin since January 2016. It was an experiment in social, artistic and theoretical [collaboration](https://www.youtube.com/watch?v=KRYVH7fGa68).
 
-HOFFNUNG 3000 is the process of organising a festival, a festival that creates itself. Through each and every participant.
+HOFFNUNG 3000 did not have any curatorial themes, instead we asked one main question: How do we organize ourselves in our social, artistic & theoretical communities? HOFFNUNG 3000 was not simply a festival but more of a process of organizing a festival, a festival that creates itself. Through each and every participant.
 
-HOFFNUNG 3000 invites 30 practitioners into a collective creation mode. No top down curation, but self-curation.
+![HOFFNUNG 3000](/assets/images/hoffnung3000.jpg)
+
+HOFFNUNG 3000 invited 30 practitioners of all fields and backgrounds to join into a collective creation mode. As there was no curated programme, all participants became themselves the curators. All participants were anonymized, so no name or information was displayed – neither to the public nor to the other participants. Like for VERANTWORTUNG 3000, we provided an online platform on which all collaboration occured and all events were set up by the participants, beforehand and during the festival.
 
 Webpage: [hoffnung3000.de](http://www.hoffnung3000.de)
 Souce-Code: [github.com/adzialocha/hoffnung3000](https://github.com/adzialocha/hoffnung3000)
+
+## Self-curation via platform
+
+BLATT 3000 believes in a system of self-curation and thus critically reflects the role of curators: Who shapes the discourse if you as a practitioner are not invited or respond to a call but set up your own rules of working?
+
+HOFFNUNG 3000 engendered such processes of self-organization. HOFFNUNG 3000 was more an experimental laboratory than a conventional festival. HOFFNUNG 3000 was set up as a platform on which participants organized the festival themselves: [hoffnung3000.de](http://www.hoffnung3000.de). Platformism means offering and sharing and using everyone’s abilities / potentials / gear / skills. The idea was and is, that all these resources and germs will form a diverse pool of potentiality and it is from these resources that all activity and production derive. The festival was created by everyone’s collective endeavour. All participants set their own rules for their specific projects: Where does the event take place, how long does it last, what equipment do I need and what resources will I use? Setting your own rules also meant: events could have been public or private or something in between.
+
+One new feature on the HOFFNUNG 3000 [platform](https://www.youtube.com/watch?v=ux2R9jwEIgw) was the experimenting with anonymity. Every action by the participants was connected to a random animal avatar and each new activity got a new avatar to guarantee anonymity of the initiators. Especially before the festival the platform users and the audience did not know who was behind any activity. The participants had the chance to communicate through the platform, it allowed them to write private messages. Anonymized communication was a quite new experience for all of us. And even if you usually did found out during the festival, who was behind an avatar, there were always surprises, especially in newly created events or resources. And furthermore there was a random meeting generator on the platform, through which one could meet random “animals” at random places. This anonymization also lead to the situation of having a festival without a line-up and without any artist names – this way we hoped to created a safe space of experimentation, to create curiousity rather than fulfilling expectations of both audience and participants.
+
+## BLATT 3000 #09
+
+![VERANTWORTUNG 3000](/assets/images/special-1.png)
+
+HOFFNUNG 3000 was a very intense and thought-provoking festival, with audience and participants from 15 different countries of which more than half were based in Berlin. It was a very different festival compared to VERANTWORTUNG 3000 from 2016, mostly with regards to the atmosphere and overall shared feeling. We continued with our main questions, formulated them more precisely and have learned a great deal in the process. Similar to 2016’s VERANTWORTUNG 3000, BLATT 3000 wanted to again cater for a critical reflection of the experience that was HOFFNUNG 3000. This resulted in the special issue of BLATT 3000 #09, released on 15 December 2017. This time the issue grew 100 pages thick and the contributions were not written by single authors but were spread out to different means of communication (facebook chats with participants, collaborative markdown editors online, conversations on the platform [rhizomatic.community](http://www.rhizomatic.community), AI-generated texts and many more). With these collaborative writings we could thus cater for the anonymous and shared reflection of the experiences of the community.

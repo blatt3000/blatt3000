@@ -4,7 +4,7 @@
     "title": "BLATT 3000",
     "url": "https://blatt3000.de",
     "year": 2017,
-    "description": "BLATT 3000",
+    "description": "BLATT 3000 versteht sich als DIN-A5-Heft für konstruktiven Austausch und kritische Diskussion über zeitgenössische Musik. BLATT 3000 gibt weder Themen noch Meinungen vor. Einzelne Beiträge im BLATT 3000 sind Impulse, auf die der Leserkreis zur nächsten Ausgabe mit neuen Impulsen reagieren darf.",
     "image": {
       "src": "https://blatt3000.de/assets/images/blatt3000.jpg",
       "width": "1200",
@@ -22,10 +22,6 @@
       "slug": "about"
     },
     {
-      "title": "Archive",
-      "slug": "archive"
-    },
-    {
       "title": "BLATT 3000",
       "slug": "blatt3000"
     },
@@ -38,16 +34,8 @@
       "slug": "verantwortung3000"
     },
     {
-      "title": "The politics of self-curation",
-      "slug": "politics-of-self-curation"
-    },
-    {
-      "title": "Shop",
-      "slug": "shop"
-    },
-    {
-      "title": "Newsletter",
-      "slug": "newsletter"
+      "title": "Order",
+      "slug": "order"
     },
     {
       "title": "Contact",

@@ -1,7 +1,7 @@
 import Navigation from './navigation'
 
 function init() {
-  const navigation = new Navigation({
+  new Navigation({
     hamburgerElem: document.getElementById('hamburger'),
     navigationElem: document.getElementById('navigation'),
   })

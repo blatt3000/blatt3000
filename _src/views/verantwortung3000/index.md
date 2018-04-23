@@ -1,8 +1,22 @@
-VERANTWORTUNG 3000 is a gathering in Brandenburg, for 6 days in late summer 2016. VERANTWORTUNG 3000 is a space for exchange and critical discussion on contemporary music.
+VERANTWORTUNG 3000 was a 6 day [festival](https://www.youtube.com/watch?v=pD_sKqU7u4s) that took place in Brandenburg 30 August - 4 September 2016. VERANTWORTUNG 3000 was created by every participant and not by a central artistic director. We call that self-curation, which means: Every participant will create the program her- or himself, we create the program [collectively](https://www.youtube.com/watch?v=WsiZWgaXxTo).
 
-VERANTWORTUNG 3000 is initiated by BLATT 3000. BLATT 3000 does not want any curation. BLATT 3000 wants a system of self-curation. All participants are responsible for the programming and realisation.
+VERANTWORTUNG 3000 was not so much only a festival but more of a laboratorium. VERANTWORTUNG 3000 was initiated by BLATT 3000. BLATT 3000 understands itself merely as a provider of a platform, we curate and edit the magazine only to a small degree - instead we want to enable a discourse. The same concept was transported to VERANTWORTUNG 3000.
 
-VERANTWORTUNG 3000 offers facilities, food and a platform for managing resources. Participants offer their resources and make use of others’ resources to create a programme. Everyone brings his or her loot, so we can share, play and eat together.
+![VERANTWORTUNG 3000](/assets/images/verantwortung3000.jpg)
+
+We provided venues, accommodation and food and everyone else, all the participants provided the content. That also meant that a production or project could have been anything: a concert, a rehearsal, a workshop, a seminar, a walk, a screening. There were no restrictions on what was being programmed.
+
+In the end we had 46 participants from different countries (e.g. Netherlands, Germany, UK, Iceland) who organized up to 20 productions per day. This included concerts and screenings, yoga sessions and installations, readings, a night walk and much more. We had an own kitchen team, providing food three times a day for everyone and there was also a café and bar that was set up specifically for the festival.
 
 Webpage: [verantwortung3000.de](http://www.verantwortung3000.de)
 Source-Code: [github.com/adzialocha/verantwortung3000](https://github.com/adzialocha/verantwortung3000)
+
+## Platform
+
+In order for all of this to be easily organized we programmed a platform [verantwortung3000.de](http://verantwortung3000.de), on which the participants had to register a profile. Since VERANTWORTUNG 3000 was not funded, participants had to pay a participation fee of 155 Euros to register – which provided for the accomodation and the meals. Registered participants could then start setting up their projects and collaborations. There were pictures and descriptions for each of the venues, to get a feel of the Landgut St. Michael and the different rooms that were shared (ten rooms overall that were bookable). This platform was the principal means of communication and our [curatorial system](https://www.youtube.com/watch?v=Jiy-mH6qsXI). Through the platform participants could reserve the dates and venues for projects, ask people to contribute or collaborate, borrow and offer equipment and generally keep the other participants updated on their ideas. Due to the space and organization we could only host 50 participants. There was no WIFI on the Landgut, so during the festival we offered access to the platform through a computer in the bar. Participants used it to update productions and plan their programmes. The platform was thus a remote and autonomous organizing instrument.
+
+## #7 Special issue
+
+![VERANTWORTUNG 3000](/assets/images/special-2.png)
+
+The spirit of VERANTWORTUNG 3000 is documented in the special issue BLATT 3000 #07. These 6 inspiring days in Prädikow were a first experiment in self-organized transdisciplinary collaboration outside of the city and in a private setting. We were mainly self-sustainable for the week. To celebrate and reflect on VERANTWORTUNG 3000 the special issue contains contributions and interviews from participants and was lead by a dedicated documentary team (organized by Kilian Dumann). BLATT 3000 #07 is 104 pages thick and the cover by Mio Ebisu shows a scenery from the festival.

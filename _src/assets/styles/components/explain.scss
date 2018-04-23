@@ -1,0 +1,46 @@
+$_explain-background-color: rgba($black, .8);
+
+.explain {
+  position: relative;
+
+  border-bottom-style: dashed;
+
+  cursor: pointer;
+}
+
+.explain__content {
+  position: absolute;
+
+  top: 1.5em;
+
+  display: none;
+
+  width: 500px;
+
+
+  padding: $page-margin / 3;
+
+  color: $white;
+
+  background-color: $_explain-background-color;
+
+  pointer-events: none;
+}
+
+.explain--active {
+  .explain__content {
+    display: initial;
+  }
+}
+
+.explain--right {
+  .explain__content {
+    right: 0;
+  }
+}
+
+.explain--left {
+  .explain__content {
+    left: 0;
+  }
+}
