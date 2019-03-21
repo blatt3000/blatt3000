@@ -1,16 +1,18 @@
 {
   "name": "blatt3000",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Home of BLATT 3000",
   "main": "index.html",
   "scripts": {
-    "build": "static-generator build",
-    "clear": "static-generator clear",
+    "build": "npm run prepare && static-generator build -s ./src -o ./dist",
+    "clear": "rimraf ./dist",
+    "deploy": "deploy ./dist blatt3000.de web",
     "new": "static-generator new",
+    "prepare": "mkdir -p ./dist",
     "serve": "serve",
-    "start": "npm run serve",
+    "start": "npm run prepare && npm run serve",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "watch 'npm run build' _src"
+    "watch": "watch --interval=1 --wait=1 'npm run build' ./src"
   },
   "repository": {
     "type": "git",
@@ -27,8 +29,9 @@
   },
   "homepage": "https://github.com/blatt3000/blatt3000.github.io#readme",
   "devDependencies": {
-    "serve": "^6.4.0",
-    "static-generator": "^0.2.0",
+    "rimraf": "^2.6.3",
+    "serve": "^10.1.2",
+    "static-generator": "^0.2.6",
     "watch": "^1.0.2"
   }
 }

@@ -1,7 +1,0 @@
-(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
-"use strict";function _interopRequireDefault(e){return e&&e.__esModule?e:{default:e}}function init(){new _navigation2.default({hamburgerElem:document.getElementById("hamburger"),navigationElem:document.getElementById("navigation")})}var _navigation=require("./navigation"),_navigation2=_interopRequireDefault(_navigation);document.addEventListener("DOMContentLoaded",function(){init()});
-
-},{"./navigation":2}],2:[function(require,module,exports){
-"use strict";function _classCallCheck(i,a){if(!(i instanceof a))throw new TypeError("Cannot call a class as a function")}Object.defineProperty(exports,"__esModule",{value:!0});var Hamburger=function i(a){var e=this;_classCallCheck(this,i),this.options=a,this.isActive=!1;var t=this.options,s=t.hamburgerElem,c=t.navigationElem;s.addEventListener("click",function(){e.isActive=!e.isActive,e.isActive?(s.classList.add("hamburger--active"),c.classList.add("navigation--active")):(s.classList.remove("hamburger--active"),c.classList.remove("navigation--active"))})};exports.default=Hamburger;
-
-},{}]},{},[1]);
