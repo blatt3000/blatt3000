@@ -1,15 +1,15 @@
-blatt3000.github.io
+blatt3000
 ======
 
-Home of BLATT 3000.
+Home of BLATT 3000, built with [static-generator](https://github.com/adzialocha/static-generator).
 
 ## Development
 
 Run the following commands to bootstrap the development environment:
 
 ```
-git clone git@github.com:blatt3000/blatt3000.github.io.git
-cd blatt3000.github.io
+git clone git@github.com:blatt3000/blatt3000.git
+cd blatt3000
 npm install
 ```
 
